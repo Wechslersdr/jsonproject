@@ -3,7 +3,7 @@
     "data": {
       "state": 200,
       "msg": "Success",
-      "isT": true,
+      "isT": "",
       "en": [
         "adj_complete_registration",
         "adj_purchase1",
