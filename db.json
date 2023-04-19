@@ -1,0 +1,28 @@
+{
+  "Bean": {
+    "data": {
+      "state": 200,
+      "msg": "Success",
+      "isT": true,
+      "en": [
+        "adj_complete_registration",
+        "adj_purchase1",
+        "adj_purchase1_value",
+        "deposit",
+        "depositSubmit",
+        "deposit-success",
+        "firstDeposit",
+        "firstDepositArrival",
+        "first-deposit-success",
+        "firstOpen",
+        "first-recharge-success",
+        "register",
+        "registerSubmit",
+        "register-success",
+        "signup-success",
+        "withdraw"
+      ],
+      "id":["cul3d8","3994ic","z7752u","ti5icb","qtrmlx","fd1o3r","be3ah4","vqzzb9","bzbd2u","6967ow","ud166l","4n2vcz","ite5r0","44eqpn","wwkojs","rk6nj7"]
+    }
+  }
+}
